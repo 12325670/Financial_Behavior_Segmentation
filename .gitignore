@@ -1,0 +1,16 @@
+# Data files
+data/raw/*.pdf
+data/processed/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+
+# Environment
+.env
